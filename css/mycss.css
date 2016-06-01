@@ -1,0 +1,25 @@
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+}
+
+.navbar-brand {
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.centerText{
+	text-align: center;
+}
+.whiteBackground{
+	background-color:white;
+	color:#1A242F;
+}
+.redAsterisks{
+	color:red;
+}
+button{
+	padding:5px !important;
+}
+select .btn-primary{
+	background-color: #279e99 !important;
+}
